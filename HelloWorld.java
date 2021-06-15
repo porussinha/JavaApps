@@ -12,6 +12,12 @@ public class HelloWorld
 		System.out.println(e);
 		}
 		System.out.println(new Date() +" CI Stop ...");
+
+		Table.main(asp);
+
+		
 		System.out.println("-------End--------------");
+
+		
 	}
 }
